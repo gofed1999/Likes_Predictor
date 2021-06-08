@@ -1,0 +1,2 @@
+rootProject.name = "Likes Predictor"
+include ':app'
