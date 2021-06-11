@@ -11,9 +11,9 @@
     │  │  └─ main
     │  │     ├─ java
     │  │     │  └─ java/com/example/likespredictor
-    │  │     │     ├─ MainActivity.java
-    │  │     │     └─ CameraActivity.java
-    │  │     ├─ asserts
+    │  │     │     ├─ MainActivity.java                     # Класс MainActivity.java отвечает за авторизацию пользователя в Instagram
+    │  │     │     └─ CameraActivity.java                   # Первоначальные настройки камеры, работа пользователя с камерой, применение моделей к кадру и вывод результата
+    │  │     ├─ asserts                                     # Папка, содержащая обученные модели
     │  │     │  ├─ aestetics.pt
     │  │     │  ├─ regression_v2.pt
     │  │     │  └─ resnet_v4.pt
