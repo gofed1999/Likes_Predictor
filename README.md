@@ -9,7 +9,7 @@
     ├── Parsing_main_file.ipynb      # Основной notebook. С помощью кода, написанного в нем, был получен первоначальный dataset
     ├── data
     │   ├── old_versions_datasets    # Папка, содержащая старые версии dataset'ов    
-    │       └── ..
+    │   │    └── ..
     │   └── photos.csv               # Итоговый dataset, после выполнения notebook'ов этого раздела
     ├── Parsing_additions            # Папка, содержащая дополнительные notebook'и            
     │   ├── additional.ipynb         
