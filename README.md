@@ -3,10 +3,10 @@
 <h2>Структура проекта</h2>
         
     .
-    ├── Modeling.ipynb
+    ├── Modeling.ipynb                          # Главный notebook, в котором написан код препроцессинга данных, а также код обучения модели
     ├── Additions
-    │   ├── Some_experements.ipynb
-    │   └── Transfer_learning.ipynb    
+    │   ├── Some_experements.ipynb              # Дополнительные эксперементы для создания финальной версии модели
+    │   └── Transfer_learning.ipynb             # Первые эксперементы в работе (обучение модели resnet18 методом трансферного обучения)
     └── README.md
     
 
